@@ -8,6 +8,6 @@ I'm Ignacio Ocampo! I'm a Full Stack Web Developer really eager to get more expe
 - 📫 How to reach me: ... ignaciocampo.r@gmail.com
 - 📫 Sharing Updates on: ... [LinkedIn](https://www.linkedin.com/in/ignacioocampor/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Skills: ... English/Spanish , React , SQL , Node , Python, JavaScript
+- ⚡ Skills: ... English/Spanish , HTML/CSS , React , SQL/MySQL , Node/Express , Python, JavaScript , Redux/Context , APIs/REST
 - ⚡ Fun fact: ... I hate snakes
 
