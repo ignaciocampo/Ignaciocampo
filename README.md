@@ -1,10 +1,5 @@
 ### Hello there 👋
 I'm Ignacio Ocampo! I'm a Full Stack Web Developer really eager to get more experience and with a passion for coding who loves to solve problems!
-<!--
-
-sdasdds
-
-Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning ... Python
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ignaciocampo.r@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I hate snakes
--->
+
