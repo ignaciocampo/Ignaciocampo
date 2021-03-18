@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm Ignacio Ocampo! I'm a Full Stack Web Developer really eager to get more experience and with a passion for coding and a drive to solve problems!
+I'm Ignacio Ocampo! I'm a Full Stack Web Developer really eager to get more experience, with a passion for coding and a drive to solve problems!
 
 
 - 🌱 I’m currently learning ... Python
